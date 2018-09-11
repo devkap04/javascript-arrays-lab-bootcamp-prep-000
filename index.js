@@ -19,5 +19,5 @@ function destructivelyRemoveFirstKitten() {
 }
 
 function appendKitten(name) {
-  var = newKittens
+  var newKittens = []
 }
