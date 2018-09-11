@@ -30,3 +30,6 @@ function prependKitten(name) {
   return newKittens
 }
 
+function removeFirstKitten() {
+  
+}
